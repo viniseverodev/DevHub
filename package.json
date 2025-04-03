@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "homepage": "https://github.com/viniseverodev/DevHub-BS",
+  "homepage": "https://github.com/viniseverodev/DevHub",
   "devDependencies": {
     "@popperjs/core": "^2.11.8",
     "@rollup/plugin-commonjs": "^28.0.3",
